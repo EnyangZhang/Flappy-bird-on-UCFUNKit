@@ -1,0 +1,8 @@
+Flappy bird:
+AUTHORS: Enyang Zhang (72004622), Gavin Ong (Student ID: 18376463)
+
+INSTRUCTIONS:
+Push navswitch to enter game from title screen for both players. Push navswitch to go from game-over screen back to title screen for both players. Push navswitch to make the bird fly. Avoid hitting pipes and the ground. The loser is the first to die.
+
+How to build the executable:
+Run "make program" in the same directory as the Makefile and source files.
